@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="lista" src=".github/project.png" width="100%">
+  <img alt="lista" src=".github/lista.png" width="100%">
 </p>
